@@ -1,0 +1,10 @@
+---
+title: test2
+author: ''
+date: '2020-05-15'
+slug: test2
+categories: []
+tags: []
+---
+
+这是一个新的测验
